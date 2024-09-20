@@ -1,0 +1,117 @@
+﻿
+@{
+    ViewData["Title"] = "O que fazer?";
+}
+<head>
+   
+    <link rel="stylesheet" href="~/css/style.css" asp-append-version="true" />
+  
+</head>
+
+.
+
+<div class="container">
+
+    <div class="gap-2"></div>
+
+    <div class="section">
+        <h2>Sinais de Uma Possível Erosão</h2>
+
+        <div class="gapCard"></div>
+
+        <div class="card">
+            <p><strong>Redução da largura da praia:</strong> @ViewBag.INF1</p>
+        </div>
+
+        <div class="gapInfo"></div>
+
+        <div class="card">
+            <p><strong>Evite construir ou realizar reformas em áreas de risco:</strong> @ViewBag.INF2</p>
+        </div>
+
+        <div class="gapInfo"></div>
+
+        <div class="card">
+            <p><strong>Participe de ações de proteção da costa:</strong> @ViewBag.INF3</p>
+        </div>
+    </div>
+
+    <div class="gapSection"></div>
+
+    <div class="section">
+        <h2>O que fazer se ocorrer uma Erosão</h2>
+
+        <div class="gapCard"> </div>
+
+        <div class="card">
+            <p><strong>Atenção aos Sinais:</strong> @ViewBag.INF4</p>
+        </div>
+
+        <div class="gapInfo"></div>
+
+        <div class="card">
+            <p><strong>Afastar-se:</strong> @ViewBag.INF5</p>
+        </div>
+
+        <div class="gapInfo"></div>
+
+        <div class="card">
+            <p><strong>Segure-se e Evite o Perigo:</strong> @ViewBag.INF6</p>
+        </div>
+    </div>
+
+    <div class="gapSection"></div>
+
+    <div class="section">
+        <h2>O que fazer se ocorreu uma Erosão</h2>
+
+        <div class="gapCard"> </div>
+
+        <div class="card">
+            <p><strong>Comunique as autoridades locais:</strong> @ViewBag.INF7</p>
+        </div>
+
+        <div class="gapCard"> </div>
+
+        <div class="card">
+            <p><strong>Evite Edificações ou Reformas em Áreas de Risco:</strong> @ViewBag.INF8</p>
+        </div>
+
+        <div class="gapCard"> </div>
+
+        <div class="card">
+            <p><strong>Participe de Ações de Proteção à Costa:</strong> @ViewBag.INF9</p>
+        </div>
+
+    </div>
+
+    <div class="gapSection"></div>
+
+    <div class="section">
+        <h2>O que fazer para Se Prevenir e Evitar a Erosão</h2>
+
+        <div class="gapCard"> </div>
+
+        <div class="card">
+            <p><strong>Aquecimento global:</strong> @ViewBag.INF10 </p>
+        </div>
+
+        <div class="gapCard"> </div>
+
+        <div class="card">
+            <p><strong>Urbanização:</strong> @ViewBag.INF11</p>
+        </div>
+
+        <div class="gapCard"> </div>
+
+        <div class="card">
+            <p><strong>Mineração/Extração de Areia:</strong> @ViewBag.INF12</p>
+        </div>
+
+    </div>
+
+</div>
+
+<div class="contact">
+    <p><strong>Entre em contato com a polícia ambiental nos seguintes meios:</strong> <p> @ViewBag.telefone, @ViewBag.email</p>
+</div>
