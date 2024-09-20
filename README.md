@@ -12,5 +12,5 @@
 https://github.com/gabiheckmann/Gabi-e-Isaque/wiki
 ## Wiki com a documentação:
 https://github.com/alexandreteixeira13/App-Projeto-Litoral/wiki
->>>>>>> 9aca812c37b905b841e020711981626246b684ff
->>>>>>> <p>Alterar a branch para AspNet para ver o projeto do Site</p>
+
+ <p>Alterar a branch para AspNet para ver o projeto do Site</p>
