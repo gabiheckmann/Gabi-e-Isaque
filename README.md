@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # App-Projeto-Litoral
 
 <h1>Nome: CLSP</h1>
@@ -11,6 +11,5 @@
 ## Link da Wiki: 
 https://github.com/gabiheckmann/Gabi-e-Isaque/wiki
 ## Wiki com a documentação:
-https://github.com/alexandreteixeira13/App-Projeto-Litoral/wiki
-
+https://github.com/alexandreteixeira13/App-Projeto-Litoral/wiki<br>
  <p>Alterar a branch para AspNet para ver o projeto do Site</p>
